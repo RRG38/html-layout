@@ -3,23 +3,23 @@ body, html {
   padding: 0;
 }
 
-.row {
+#row {
   height: 100px;
   width: 100%;
 }
 
-.row-big {
+#row-big {
   height: 200px;
   width: 100%;
 }
 
-.row-1 {
+#row-1 {
   background-color: #D8D8D8;
   padding: 25px;
   box-sizing: border-box;
 }
 
-.row-1-div {
+#row-1-div {
   width: 50px;
   height: 50px;
   background-color: #4A90E2;
@@ -44,5 +44,5 @@ body, html {
 }
 
 .row-6 {
-  background-color: #F8E71C;
+  background-color: #22221d;
 }
